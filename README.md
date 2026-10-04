@@ -27,7 +27,7 @@ El Ahora fenomenológico se constituye por el movimiento de la **ERP (Estructura
 - **Distensión** → el movimiento mismo de la conciencia entre ambos polos.
 - **Parametrización** → el tiempo cuantitativo de los relojes.
  
-Este esquema remite directamente a la fenomenología de Husserl, quien describió la conciencia interna del tiempo como una estructura de **retención** (retención del pasado inmediato), **impresión originaria** (el ahora) y **protensión** (anticipación del futuro inmediato). También resuena con Bergson y Merleau-Ponty, para quienes el tiempo vivido no es una sucesión de instantes homogéneos, sino una **duración cualitativa**.
+Este esquema remite directamente a la fenomenología de Husserl, quien describió la conciencia interna del tiempo como una estructura de **retención** (retención del pasado inmediato), **impresión originaria** (el ahora) y **protensión** (anticipación del futuro inmediato), Toboso(2003). También resuena con Bergson y Merleau-Ponty, para quienes el tiempo vivido no es una sucesión de instantes homogéneos, sino una **duración cualitativa**.
 2. La mente de supervivencia y sus dos polos:
  Definición:
 Llamamos **mente de supervivencia** al estado innato de la mente humana cuando no se practica el mindfulness, es decir, la plena atención. En ese estado, los movimientos de distensión de la mente generan un **atrapamiento de la conciencia**, un **vivir automáticamente** (piloto automático), en el que se pierde el momento presente o el Ahora.
@@ -108,6 +108,7 @@ Merleau-Ponty, M. (1984). *Fenomenología de la percepción*. Barcelona: Planeta
 Nhất Hạnh, T. & Cheung, L. (2011). *Saborear: mindfulness para comer y vivir bien*. España: Oniro.
 Schopenhauer, A. (1987). *El mundo como voluntad y representación*. México: Porrúa.
 Seligman, M. (2011). *La vida que florece*. Barcelona: Ediciones B.
+Toboso, M.M. (2003). Tiempo y Sujeto: *Nuevas Perspectivas en torno a la experiencia del Tiempo. Tesis Doctoral. Universidad de Salamanca. Departamento de Filosofía.
 Tolle, E. (2016). *El poder del Ahora*. Buenos Aires: Debolsillo.
 
 
