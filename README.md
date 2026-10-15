@@ -109,6 +109,7 @@ Husserl, E. (2002). *Lecciones de fenomenología de la conciencia interna del ti
 Kant, E. (1988). *Crítica de la Razón Pura*. Madrid: Alianza.
 Merleau-Ponty, M. (1984). *Fenomenología de la percepción*. Barcelona: Planeta.
 Nhất Hạnh, T. & Cheung, L. (2011). *Saborear: mindfulness para comer y vivir bien*. España: Oniro.
+Prigogine,I. (1991). *El nacimiento del Tiempo. España: Tusquets
 Schopenhauer, A. (1987). *El mundo como voluntad y representación*. México: Porrúa.
 Seligman, M. (2011). *La vida que florece*. Barcelona: Ediciones B.
 Toboso, M.M. (2003). Tiempo y Sujeto: *Nuevas Perspectivas en torno a la experiencia del Tiempo. Tesis Doctoral. Universidad de Salamanca. Departamento de Filosofía.
